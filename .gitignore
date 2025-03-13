@@ -1,3 +1,7 @@
+### Project-specific ###
+# Output directory
+/output
+
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,pycharm+all,python,jupyternotebooks,apachehadoop,spark
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,pycharm+all,python,jupyternotebooks,apachehadoop,spark
 
